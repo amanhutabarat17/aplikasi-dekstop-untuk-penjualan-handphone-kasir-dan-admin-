@@ -1,0 +1,4 @@
+Untuk memulai aplikasi  dari menu login dan bisa memilih login sebagai admin atau login sebagai kasir
+kasir untuk melakukan checkout barang dan untuk mengupdate barang adalah tugas dari sisi admin
+hpvivo.sql merupakan databasenya
+tabel penjualan di halaman admin merupakan tabel hasil relasi dari data handphone dan juga dari  tabel penjual
